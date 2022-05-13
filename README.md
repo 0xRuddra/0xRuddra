@@ -1,6 +1,6 @@
 [![MasterHead](https://pbs.twimg.com/media/FSk_aNRaMAATxCS?format=jpg&name=medium)](https://rishavchanda.io)
 <h1 align="center">Hey there 👋, I'm Ruddra..</h1>
-<h3 align="center">CSE Student|:computer:Programmer |:shield:Security Researcher |:crossed_swords:Web Penetration Tester |:black_flag: CTF Player|</h3>
+<h3 align="center">CSE Student|:computer:Programmer |:shield:Security Researcher |:crossed_swords:Web Penetration Tester |:black_flag: CTF Player|</h3><br><br>
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
